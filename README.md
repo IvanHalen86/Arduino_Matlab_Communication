@@ -1,2 +1,2 @@
 # Arduino_Matlab_Communication
-Condes to make communicate arduino and matlab
+Condes to allow arduino and matlab communication
