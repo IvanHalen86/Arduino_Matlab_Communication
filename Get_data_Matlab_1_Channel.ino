@@ -24,6 +24,6 @@ void setup()
 void loop() 
 {
   i =  analogRead(A1);
-  Serial.print(i);
+  Serial.println(i);
    delay(sample);
 }
